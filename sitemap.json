@@ -31,7 +31,7 @@
             "category": "vegetables",
             "sub_category": "chili",
             "updated_at": "2025-08-31T07:24:05.499608",
-            "url": "https://www.rythuri.com/vegetables/chili/Bajji Mirchi"
+            "url": "https://www.rythuri.com/vegetables/chili/Bajji-Mirchi"
         },
         {
             "id": "Bangaladumpa",
@@ -47,7 +47,7 @@
             "category": "vegetables",
             "sub_category": "fruity",
             "updated_at": "2025-08-31T07:24:05.499615",
-            "url": "https://www.rythuri.com/vegetables/fruity/Beerakaya Hybrid"
+            "url": "https://www.rythuri.com/vegetables/fruity/Beerakaya-Hybrid"
         },
         {
             "id": "Beerakaya(natu)",
@@ -55,7 +55,7 @@
             "category": "vegetables",
             "sub_category": "fruity",
             "updated_at": "2025-08-31T07:24:05.499618",
-            "url": "https://www.rythuri.com/vegetables/fruity/Beerakaya(natu)"
+            "url": "https://www.rythuri.com/vegetables/fruity/natu-Beerakaya"
         },
         {
             "id": "Bendakaya",
@@ -119,7 +119,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499652",
-            "url": "https://www.rythuri.com/vegetables/leafy/Chukka Kura(3 kattalu)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Chukka Kura"
         },
         {
             "id": "Dondakayalu",
@@ -143,7 +143,7 @@
             "category": "vegetables",
             "sub_category": "fruity",
             "updated_at": "2025-08-31T07:24:05.499663",
-            "url": "https://www.rythuri.com/vegetables/fruity/French Beans"
+            "url": "https://www.rythuri.com/vegetables/fruity/French-Beans"
         },
         {
             "id": "Gongura (3 kattalu)",
@@ -151,7 +151,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499667",
-            "url": "https://www.rythuri.com/vegetables/leafy/Gongura (3 kattalu)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Gongura"
         },
         {
             "id": "Kakarakaya",
@@ -175,7 +175,7 @@
             "category": "vegetables",
             "sub_category": "fruity",
             "updated_at": "2025-08-31T07:24:05.499676",
-            "url": "https://www.rythuri.com/vegetables/fruity/Kera Dosakaya"
+            "url": "https://www.rythuri.com/vegetables/fruity/Kera-Dosakaya"
         },
         {
             "id": "Kotimera(katta)",
@@ -183,7 +183,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499680",
-            "url": "https://www.rythuri.com/vegetables/leafy/Kotimera(katta)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Kotimera"
         },
         {
             "id": "Lemons",
@@ -199,7 +199,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499686",
-            "url": "https://www.rythuri.com/vegetables/leafy/Mentukura(5 kattalu)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Mentukura"
         },
         {
             "id": "Mirapakaya",
@@ -215,7 +215,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499693",
-            "url": "https://www.rythuri.com/vegetables/leafy/Palakura(3 kattalu)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Palakura"
         },
         {
             "id": "Pendlam",
@@ -231,7 +231,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499699",
-            "url": "https://www.rythuri.com/vegetables/leafy/Pundina(katta)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Pundina"
         },
         {
             "id": "Tamato",
@@ -247,7 +247,7 @@
             "category": "vegetables",
             "sub_category": "leafy",
             "updated_at": "2025-08-31T07:24:05.499705",
-            "url": "https://www.rythuri.com/vegetables/leafy/Thotakura(3 kattalu)"
+            "url": "https://www.rythuri.com/vegetables/leafy/Thotakura"
         },
         {
             "id": "Ullipaya",
@@ -271,7 +271,7 @@
             "category": "vegetables",
             "sub_category": "fruity",
             "updated_at": "2025-08-31T07:24:05.499715",
-            "url": "https://www.rythuri.com/vegetables/fruity/Vankaya(Round)"
+            "url": "https://www.rythuri.com/vegetables/fruity/Vankaya-Round"
         }
     ]
 }
