@@ -1,9 +1,37 @@
-[
-  {
-    "_id": {
-      "$oid": "68593f1c1b010d7b8e345770"
+{
+  "styles": {
+    "backgroundStyle": "bg-green-900",
+    "textColor": "text-white",
+    "categoryTabsTextColor": "text-white",
+    "fontStyle": "font-sans"
+  },
+  "layoutRules": [
+    {
+      "type": "productGrid",
+      "category": "vegetables",
+      "sub_category": "roots",
+      "layout_type": "horizontal",
+      "limit": 5,
+      "heading": "Fresh Veggies",
+      "heading_link": "/vegetables/roots"
     },
-    "product_id": "68593f1c1b010d7b8e345770_prod",
-    "name": "Dosakaya",
-    "image": "https://ik.imagekit.io/odbeydnbj/compressed%20avif%20images/dosakaya.avif?updatedAt=1751015440045"
-  }]
+    {
+      "type": "productGrid",
+      "category": "vegetables",
+      "sub_category": "chili",
+      "layout_type": "horizontal",
+      "limit": 10,
+      "heading": "Fresh Spicy Veggies",
+      "heading_link": "/vegetables/chili"
+    },
+    {
+      "type": "productGrid",
+      "category": "vegetables",
+      "sub_category": "leafy",
+      "layout_type": "vertical",
+      "limit": 6,
+      "heading": "Fresh Veggies",
+      "heading_link": "/vegetables/leafy"
+    }
+  ]
+}
