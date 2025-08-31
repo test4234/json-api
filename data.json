@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "68593f1c1b010d7b8e345770"
+    },
+    "product_id": "68593f1c1b010d7b8e345770_prod",
+    "name": "Dosakaya",
+    "keywords": [
+      "Dosakaya",
+      "Yellow Cucumber",
+      "Cucumber (Indian)",
+      "Cucumis sativus (related)",
+      "Yellow",
+      "Green",
+      "Mild",
+      "Tangy",
+      "Hydrating",
+      "Vitamin C",
+      "Vitamin E",
+      "Vitamin K",
+      "Antioxidant",
+      "Immunity",
+      "Skin Health",
+      "Bone Health",
+      "Cooling",
+      "దోసకాయ",
+      "పసుపు దోసకాయ",
+      "ఇండియన్ దోసకాయ",
+      "దోస"
+    ],
+    "image": "https://ik.imagekit.io/odbeydnbj/compressed%20avif%20images/dosakaya.avif?updatedAt=1751015440045"
+  }]
