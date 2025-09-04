@@ -13,7 +13,7 @@
       "layout_type": "horizontal",
       "limit": 15,
       "heading": "Fresh Veggies",
-      "heading_link": "/vegetables/leafy"
+      "heading_link": "/vegetables/fruity"
     },
     {
       "type": "productGrid",
