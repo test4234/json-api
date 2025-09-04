@@ -6,7 +6,7 @@
     "fontStyle": "font-sans"
   },
   "layoutRules": [
-          {
+    {
       "type": "productGrid",
       "category": "vegetables",
       "sub_category": "fruity",
@@ -41,7 +41,6 @@
       "limit": 6,
       "heading": "Fresh Leafy Veggies",
       "heading_link": "/vegetables/leafy"
-    },
-
+    }
   ]
 }
