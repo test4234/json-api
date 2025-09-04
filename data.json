@@ -6,13 +6,22 @@
     "fontStyle": "font-sans"
   },
   "layoutRules": [
+          {
+      "type": "productGrid",
+      "category": "vegetables",
+      "sub_category": "fruity",
+      "layout_type": "horizontal",
+      "limit": 15,
+      "heading": "Fresh Veggies",
+      "heading_link": "/vegetables/leafy"
+    },
     {
       "type": "productGrid",
       "category": "vegetables",
       "sub_category": "roots",
-      "layout_type": "horizontal",
-      "limit": 5,
-      "heading": "Fresh Veggies",
+      "layout_type": "vertical",
+      "limit": 10,
+      "heading": "Fresh Dumpalu",
       "heading_link": "/vegetables/roots"
     },
     {
@@ -27,11 +36,12 @@
     {
       "type": "productGrid",
       "category": "vegetables",
-      "sub_category": "leafy",
+      "sub_category": "Fresh leafy Veggies",
       "layout_type": "vertical",
       "limit": 6,
       "heading": "Fresh Veggies",
       "heading_link": "/vegetables/leafy"
-    }
+    },
+
   ]
 }
