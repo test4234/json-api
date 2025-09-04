@@ -36,10 +36,10 @@
     {
       "type": "productGrid",
       "category": "vegetables",
-      "sub_category": "Fresh leafy Veggies",
+      "sub_category": "leafy",
       "layout_type": "vertical",
       "limit": 6,
-      "heading": "Fresh Veggies",
+      "heading": "Fresh Leafy Veggies",
       "heading_link": "/vegetables/leafy"
     },
 
