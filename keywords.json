@@ -1,0 +1,352 @@
+[
+    {
+        "id": "k1",
+        "keywords": [
+            "bangaladumpa",
+            "aloo",
+            "potato",
+            "dumpa",
+            "bangala"
+        ],
+        "productIds": [
+            "Bangaladumpa"
+        ]
+    },
+    {
+        "id": "k2",
+        "keywords": [
+            "chilakadumpalu",
+            "genusu",
+            "genusu gadda",
+            "sweet potato",
+            "teepi aloo",
+            "chilakada dumpa"
+        ],
+        "productIds": [
+            "Chilakadumpalu"
+        ]
+    },
+    {
+        "id": "k3",
+        "keywords": [
+            "aratikaya",
+            "banana",
+            "arati",
+            "arati pandu",
+            "aratikaya"
+        ],
+        "productIds": [
+            "Aratikaya"
+        ]
+    },
+    {
+        "id": "k4",
+        "keywords": [
+            "bajji mirchi",
+            "bajji chillies",
+            "mirapakaya",
+            "bajji",
+            "bajji mirchi"
+        ],
+        "productIds": [
+            "Bajji Mirchi"
+        ]
+    },
+    {
+        "id": "k5",
+        "keywords": [
+            "beerakaya",
+            "beerakai",
+            "ridge gourd"
+        ],
+        "productIds": [
+            "Beerakaya Hybrid",
+            "Beerakaya(natu)"
+        ]
+    },
+    {
+        "id": "k6",
+        "keywords": [
+            "bendakaya",
+            "bendi",
+            "ladies finger",
+            "bhindi",
+            "okra"
+        ],
+        "productIds": [
+            "Bendakaya"
+        ]
+    },
+    {
+        "id": "k7",
+        "keywords": [
+            "cabbage",
+            "gobi"
+        ],
+        "productIds": [
+            "Cabbage"
+        ]
+    },
+    {
+        "id": "k8",
+        "keywords": [
+            "capsicum",
+            "green capsicum",
+            "bell pepper",
+            "simla mirchi"
+        ],
+        "productIds": [
+            "Capsicum"
+        ]
+    },
+    {
+        "id": "k9",
+        "keywords": [
+            "carrot",
+            "gajar"
+        ],
+        "productIds": [
+            "Carrot"
+        ]
+    },
+    {
+        "id": "k10",
+        "keywords": [
+            "chamadumpalu",
+            "arbi",
+            "taro root",
+            "seppankizhangu"
+        ],
+        "productIds": [
+            "Chamadumpalu"
+        ]
+    },
+    {
+        "id": "k11",
+        "keywords": [
+            "chikkudukaya",
+            "chikkudu",
+            "beans",
+            "broad beans",
+            "hyacinth beans",
+            "chikkudukayalu"
+        ],
+        "productIds": [
+            "Chikkudukaya"
+        ]
+    },
+    {
+        "id": "k12",
+        "keywords": [
+            "chukka kura",
+            "chukka aaku",
+            "sorrel leaves"
+        ],
+        "productIds": [
+            "Chukka Kura(3 kattalu)"
+        ]
+    },
+    {
+        "id": "k13",
+        "keywords": [
+            "dondakayalu",
+            "dondakaya",
+            "dondakai",
+            "ivy gourd",
+            "tindora"
+        ],
+        "productIds": [
+            "Dondakayalu"
+        ]
+    },
+    {
+        "id": "k14",
+        "keywords": [
+            "dosakaya",
+            "dosakai",
+            "cucumber",
+            "yellow cucumber"
+        ],
+        "productIds": [
+            "Dosakaya",
+            "Kera Dosakaya"
+        ]
+    },
+    {
+        "id": "k15",
+        "keywords": [
+            "french beans",
+            "beans",
+            "chikkudukaya"
+        ],
+        "productIds": [
+            "French Beans"
+        ]
+    },
+    {
+        "id": "k16",
+        "keywords": [
+            "gongura",
+            "gongura aaku",
+            "sorrel leaves"
+        ],
+        "productIds": [
+            "Gongura (3 kattalu)"
+        ]
+    },
+    {
+        "id": "k17",
+        "keywords": [
+            "kakarakaya",
+            "kakarakai",
+            "bitter gourd"
+        ],
+        "productIds": [
+            "Kakarakaya"
+        ]
+    },
+    {
+        "id": "k18",
+        "keywords": [
+            "kanda",
+            "kanda gadda",
+            "yam",
+            "elephant foot yam",
+            "pendlam"
+        ],
+        "productIds": [
+            "Kanda",
+            "Pendlam"
+        ]
+    },
+    {
+        "id": "k19",
+        "keywords": [
+            "kotimera",
+            "kothimeera",
+            "coriander leaves",
+            "dhaniya"
+        ],
+        "productIds": [
+            "Kotimera(katta)"
+        ]
+    },
+    {
+        "id": "k20",
+        "keywords": [
+            "lemons",
+            "nimma",
+            "nimma pandu"
+        ],
+        "productIds": [
+            "Lemons"
+        ]
+    },
+    {
+        "id": "k21",
+        "keywords": [
+            "mentukura",
+            "menthi kura",
+            "methi leaves",
+            "fenugreek leaves"
+        ],
+        "productIds": [
+            "Mentukura(5 kattalu)"
+        ]
+    },
+    {
+        "id": "k22",
+        "keywords": [
+            "mirapakaya",
+            "mirchi",
+            "chili",
+            "green chili",
+            "mirapakayalu"
+        ],
+        "productIds": [
+            "Mirapakaya"
+        ]
+    },
+    {
+        "id": "k23",
+        "keywords": [
+            "palakura",
+            "palak",
+            "spinach"
+        ],
+        "productIds": [
+            "Palakura(3 kattalu)"
+        ]
+    },
+    {
+        "id": "k24",
+        "keywords": [
+            "pudina",
+            "pundina",
+            "pudina aaku",
+            "mint leaves"
+        ],
+        "productIds": [
+            "Pundina(katta)"
+        ]
+    },
+    {
+        "id": "k25",
+        "keywords": [
+            "tamato",
+            "tomato",
+            "tamatar"
+        ],
+        "productIds": [
+            "Tamato"
+        ]
+    },
+    {
+        "id": "k26",
+        "keywords": [
+            "thotakura",
+            "thotakura aaku",
+            "amaranth leaves"
+        ],
+        "productIds": [
+            "Thotakura(3 kattalu)"
+        ]
+    },
+    {
+        "id": "k27",
+        "keywords": [
+            "ullipaya",
+            "ulli",
+            "onion",
+            "pyaz"
+        ],
+        "productIds": [
+            "Ullipaya"
+        ]
+    },
+    {
+        "id": "k28",
+        "keywords": [
+            "vankaya",
+            "vankai",
+            "brinjal",
+            "eggplant"
+        ],
+        "productIds": [
+            "Vankaya",
+            "Vankaya(Round)"
+        ]
+    },
+    {
+        "id": "k29",
+        "keywords": [
+            "alachanda",
+            "alasanda",
+            "cowpea",
+            "lobia"
+        ],
+        "productIds": [
+            "Aratikaya"
+        ]
+    }
+]
